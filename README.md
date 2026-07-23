@@ -2,7 +2,7 @@
 
 ###
 
-<div data-importer="stats" align="right">
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Nithin-Denny/Nithin-Denny/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&custom_title=My%20Stats" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Nithin-Denny&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
 </div>
