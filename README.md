@@ -2,6 +2,13 @@
 
 ###
 
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/Nithin-Denny/Nithin-Denny/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&custom_title=My%20Stats" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nithin-Denny&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
+</div>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -26,9 +33,10 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-Denny/Nithin-Denny/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithin-Denny/Nithin-Denny/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nithin-Denny/Nithin-Denny/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
