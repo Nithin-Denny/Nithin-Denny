@@ -3,8 +3,6 @@
 <div data-importer="techs" align="center">
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
